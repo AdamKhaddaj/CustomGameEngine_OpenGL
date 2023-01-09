@@ -6,6 +6,8 @@ https://youtu.be/r-yxcTFkeb4
 
 Build instructions:
 
+*NOTE these instructions will currently not work unless you move all files in the 'modes_and_images' and 'shaders' directories into the source directory.
+
 Change directory in path_config.h to be directory of where this project is installed.
 
 Change library path directory in CMakeLists.txt line 26 to library directory you're using for glfw, glew, and SOIL libraries.
