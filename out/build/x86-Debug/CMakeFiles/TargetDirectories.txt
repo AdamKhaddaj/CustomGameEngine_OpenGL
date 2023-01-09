@@ -1,0 +1,3 @@
+C:/Users/Leo/Desktop/TextureDemo/out/build/x86-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Leo/Desktop/TextureDemo/out/build/x86-Debug/CMakeFiles/TextureMappingDemo.dir
+C:/Users/Leo/Desktop/TextureDemo/out/build/x86-Debug/CMakeFiles/edit_cache.dir
