@@ -15,5 +15,3 @@ Change library path directory in CMakeLists.txt line 26 to library directory you
 WASD to move, P to pause, MOUSE to look
 
 Enjoy!
-
-(darksouls 1 > demonsouls)
