@@ -1,7 +1,9 @@
 # Custom_GameEngine_OpenGL
 A short game created in a custom game engine made with OpenGL. This game implements lighting, dynamic textures, procedural object generation, screenspace effects, particle systems, all done with the engine. The code is scalable and can easily have further rendering methods implemented, such as shadow mapping and normal mapping.
 
-To view an exampleof what the game looks like, here is a short gameplay video:
+Created in collaboration with Leo-McCarthy-Kennedy (https://github.com/LeoMcCarthyKennedy)
+
+Short gameplay video:
 https://youtu.be/r-yxcTFkeb4
 
 Build instructions:
